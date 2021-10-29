@@ -1,0 +1,11 @@
+.DS_Store
+
+/layers/__pycache__
+/models/__pycache__
+/preprocessing/__pycache__
+/utils/__pycache__
+
+*.pyc
+*.pyo
+*.txt
+*.csv
