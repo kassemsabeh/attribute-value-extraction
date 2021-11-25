@@ -4,7 +4,7 @@
 /models/__pycache__
 /preprocessing/__pycache__
 /utils/__pycache__
-
+/tests
 *.pyc
 *.pyo
 *.txt

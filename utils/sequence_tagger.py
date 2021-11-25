@@ -61,7 +61,6 @@ class Tagger():
                 except:
                     current_tag.append('O')
                     tag_started = False
-            
             sentences.append(current_sentence)
             tags.append(current_tag)
 
